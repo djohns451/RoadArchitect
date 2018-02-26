@@ -1,4 +1,6 @@
 # RoadArchitect
+
+[![Join the chat at https://gitter.im/djohns451/RoadArchitect](https://badges.gitter.im/djohns451/RoadArchitect.svg)](https://gitter.im/djohns451/RoadArchitect?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MicroGSD/RoadArchitect/master/LICENSE.txt)
 [![GitHub release](https://img.shields.io/github/release/MicroGSD/RoadArchitect.svg)]()
 [![Github All Releases](https://img.shields.io/github/downloads/MicroGSD/RoadArchitect/total.svg)]()
